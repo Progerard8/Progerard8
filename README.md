@@ -1,4 +1,4 @@
-# Hola, soc en Gerard 
+# Hola, soc en Gerard i aquest es el meu GitHub
 
 Estudiant d'Informàtica (SMX) a **La Salle Girona**. Em van enganxar els jocs de Friv i ara en faig amb Unreal Engine 5. M'apassionen les xarxes, la ciberseguretat i crear videojocs.
 
