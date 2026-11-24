@@ -58,3 +58,4 @@ Busco pràctiques de programació i desenvolupament de videojocs, millor a Giron
 
 - Més C++ aplicat a Unreal Engine 5 i Unity Fent servir SFML
 - Fonaments de xarxes i ciberseguretat
+- Busco unes pràctiques per a aquest estiu com a programador de videojocs i de pàgines web o plataformes interactives
