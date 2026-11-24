@@ -23,6 +23,7 @@ Busco pràctiques de programació i desenvolupament de videojocs, millor a Giron
 
 - [**VOID STRIKE**](https://voidstrike-projecte.vercel.app/void-strike/) — FPS inspirat en Counter-Strike i ambientat en un reactor industrial abandonat, amb mapes de blocs, onades d'enemics i 10 armes. Un any de feina amb Unreal Engine 5. [Descarregar a itch.io](https://progerard8.itch.io/void-strike).
 - [**c-code-project**](https://github.com/Progerard8/c-code-project) — deu exercicis de C++17 ordenats per dificultat, de les variables a l'herència i el polimorfisme.
+- [**SFML**](https://github.com/Progerard8/SFML) — treballs i pràctiques amb SFML 3 en C++: l'activitat de depuració del Timber, amb vuit errors corregits, i un mosaic de 50 formes geomètriques.
 - [**gerard.freixas.com**](https://github.com/Progerard8/gerard.freixas.com) — la meva web personal.
 
 ## Ara estic aprenent
