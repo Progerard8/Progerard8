@@ -30,7 +30,6 @@ Busco pràctiques de programació i desenvolupament de videojocs, millor a Giron
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### ☁️ SaaS
