@@ -25,5 +25,5 @@ Estudiant d'Informàtica (SMX) a **La Salle Girona**. M'apassionen les xarxes, l
 
 ## 📚 Ara estic aprenent
 
-- Més C++ aplicat a Unreal Engine 5
+- Més C++ aplicat a Unreal Engine 5 i Unity Fent servir SFML
 - Fonaments de xarxes i ciberseguretat
