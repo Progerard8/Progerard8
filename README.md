@@ -1,6 +1,8 @@
 # Hola, soc en Gerard 
 
-Estudiant d'Informàtica (SMX) a **La Salle Girona**. M'apassionen les xarxes, la ciberseguretat i crear videojocs.
+Estudiant d'Informàtica (SMX) a **La Salle Girona**. Em van enganxar els jocs de Friv i ara en faig amb Unreal Engine 5. M'apassionen les xarxes, la ciberseguretat i crear videojocs.
+
+Busco pràctiques de programació i desenvolupament de videojocs, millor a Girona. Pots veure el meu [portfolio](https://voidstrike-projecte.vercel.app) o escriure'm a gerardfreixasmatas@gmail.com.
 
 ## Què faig
 
@@ -19,8 +21,8 @@ Estudiant d'Informàtica (SMX) a **La Salle Girona**. M'apassionen les xarxes, l
 
 ## Projectes
 
-- [**VOID STRIKE**](https://github.com/Progerard8/Jocs) — FPS ambientat en un reactor industrial abandonat, amb mapes de blocs, onades d'enemics i 10 armes. Aquí hi ha la web del joc.
-- [**c-code-project**](https://github.com/Progerard8/c-code-project) — codi i exercicis de C++ (bucles, bases per a Unreal Engine).
+- [**VOID STRIKE**](https://voidstrike-projecte.vercel.app/void-strike/) — FPS inspirat en Counter-Strike i ambientat en un reactor industrial abandonat, amb mapes de blocs, onades d'enemics i 10 armes. Un any de feina amb Unreal Engine 5. [Descarregar a itch.io](https://progerard8.itch.io/void-strike).
+- [**c-code-project**](https://github.com/Progerard8/c-code-project) — deu exercicis de C++17 ordenats per dificultat, de les variables a l'herència i el polimorfisme.
 - [**gerard.freixas.com**](https://github.com/Progerard8/gerard.freixas.com) — la meva web personal.
 
 ## Ara estic aprenent
