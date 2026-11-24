@@ -1,13 +1,13 @@
-# Hola, soc el Gerard 👋
+# Hola, soc en Gerard 
 
 Estudiant d'Informàtica (SMX) a **La Salle Girona**. M'apassionen les xarxes, la ciberseguretat i crear videojocs.
 
 ## Què faig
 
-- 🎮 Desenvolupo videojocs amb **Unreal Engine 5** i **C++**
-- 🌐 Aprenc **xarxes** i **ciberseguretat**
-- 🕹️ Creo pàgines web per presentar els meus jocs (HTML i CSS)
-- 🌱 Practico cada dia amb exercicis i projectes petits
+- Desenvolupo videojocs amb **Unreal Engine 5** i **C++**
+- Aprenc **xarxes** i **ciberseguretat**
+- Creo pàgines web per presentar els meus jocs (HTML i CSS)
+- Practico cada dia amb exercicis i projectes petits
 
 ## Tecnologies
 
