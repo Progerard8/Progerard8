@@ -11,6 +11,8 @@ Busco pràctiques de programació i desenvolupament de videojocs, millor a Giron
 - Creo pàgines web per presentar els meus jocs (HTML i CSS)
 - Practico cada dia amb exercicis i projectes petits
 
+<div align="center">
+
 ## Tecnologies
 
 ### 💻 Llenguatges
@@ -43,6 +45,8 @@ Busco pràctiques de programació i desenvolupament de videojocs, millor a Giron
 ### 🎮 Motors de joc
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+</div>
 
 ## Projectes
 
